@@ -1,0 +1,44 @@
+1.
+-Strict (Ścisła): Ta wersja narzuca surowe zasady i nie akceptuje elementów i atrybutów, które zostały uznane za przestarzałe w standardzie HTML 4.01. Jest to preferowany wybór dla nowych projektów, ponieważ promuje czysty i zgodny z normami kod.
+
+-Transitional (Przejściowa): Ta wersja jest bardziej elastyczna i akceptuje starsze elementy i atrybuty, które zostały uznane za przestarzałe w standardzie Strict. Jest stosowana w przypadku, gdy konieczne jest zachowanie kompatybilności z starszymi wersjami HTML.
+
+-Frameset (Ramki): Ta wersja jest używana, gdy projekt wykorzystuje ramki (frames). Ramki zostały jednak uznane za przestarzałe w HTML5, więc zazwyczaj zaleca się unikanie ich użycia na rzecz nowocześniejszych technologii, takich jak CSS Grid czy Flexbox.
+
+2
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Moja strona</title>
+</head>
+
+<body>
+    To jest moja strona internetowa.
+</body>
+
+</html>
+
+3
+
+1
+2 Przykład do zadania
+3
+
+TEST 2
+
+1
+C
+
+2
+C
+
+3
+D 
+
+4
+B 
+
+5
+A 
+
